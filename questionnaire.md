@@ -3,15 +3,15 @@ title: "Questionnaire"
 order: 2
 in_menu: true
 ---
-Points à retravailler
+_Points à retravailler_
 
-* notice imagée pour termes techniques (chicane, sas vélo, etc) ?
+* _notice imagée pour termes techniques (chicane, sas vélo, etc) ?_
 
-* Fractionner certaines questions ?
+* _Fractionner certaines questions ?_
 
-* Graduation des réponses
+* _Graduation des réponses_
 
-* intégrer un lexique en début de questionnaire (parkings relais, véhicules doux / actifs /sas vélo / box vélo / chicane)
+* _intégrer un lexique en début de questionnaire (parkings relais, véhicules doux / actifs /sas vélo / box vélo / chicane)_
 
 
 
@@ -22,7 +22,8 @@ Il convient alors de redéfinir la ville nouvelle en tant que ville convi·viabl
 Cette enquête vise à établir un score relatif à la situation d’un territoire et des politiques en cours sur la seule thématique de la mobilité du quotidien. Sera ainsi évaluée la capacité de la collectivité à s’engager dans des solutions concrètes visant à favoriser les mobilités durables.
 Suite aux résultats, un Mobi-Score sera attribué permettant de diagnostiquer les domaines d’amélioration et de confronter les politiques engagées avec la réalité du terrain.
 
- Territoire concerné : commune de ...
+Territoire concerné : commune de ...
+
 Public visé : habitants ou habitués
 
 ------
@@ -44,37 +45,38 @@ La question de finalisation sert à vérifier la cohérence des réponses préc�
 ## Informations générales
 
 Vous êtes
-    • un homme
-    • une femme
-    • non genré
+
+* un homme
+* une femme
+* non genré
       
 Vous avez 
-    • moins de 18 ans
-    • entre 18 et 25 ans
-    • entre 25 et 40 ans
-    • entre 40 et 60 ans
-    • entre 60 et 75 ans
-    • plus de 75 ans
+* moins de 18 ans
+* entre 18 et 25 ans
+* entre 25 et 40 ans
+* entre 40 et 60 ans
+* entre 60 et 75 ans
+* plus de 75 ans
 
 Vous vous déplacez (plusieurs réponses possibles)
-    • à pied
-    • à trottinette
-    • à vélo
-    • en voiture
-    • en bus
-    • en tramway
-    • en métro
-    • en taxi ou VTC
+* à pied
+* à trottinette
+* à vélo
+* en voiture
+* en bus
+* en tramway
+* en métro
+* en taxi ou VTC
 
 Votre moyen de déplacement principal
-    • à pied
-    • à trottinette
-    • à vélo
-    • en voiture
-    • en bus
-    • en tramway
-    • en métro
-    • en taxi ou VTC
+* à pied
+* à trottinette
+* à vélo
+* en voiture
+* en bus
+* en tramway
+* en métro
+* en taxi ou VTC
 
 ## Réduire au maximum le besoin de se déplacer
 
@@ -134,7 +136,7 @@ La location de véhicules est possible, avec une gamme riche (trottinettes, vél
 
 Des parkings vélos sécurisés sont installés en nombre suffisant.
 
-La collectivité a une communication favorable aux mobilités douces (événements, éducation à la route, plans spécifiques, etc).
+La collectivité a une communication favorable aux mobilités douces (événements, éducation à la route, [plans spécifiques](https://lysios.github.io/mobiscore/metrominuto.html), etc).
 
 ## Co-construire des aménagements qualitatifs adaptés aux réalités locales
 
