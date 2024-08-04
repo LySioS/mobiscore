@@ -1,7 +1,7 @@
 ---
 title: "Metrominuto"
 order: 5
-in_menu: false
+in_menu: true
 ---
 ## Intro 
 
@@ -11,7 +11,7 @@ Cela s'appelle un *metrominuto*.
 
 ![metrominuto-pontevedra](https://metrominuto.info/wp-content/uploads/2020/06/metrominuto8.png)
 
-> le metrominuto originel, source: https://metrominuto.info/
+> le metrominuto originel, source: [https://metrominuto.info/](https://metrominuto.info/)
 
 L'intérêt est de valoriser un autre mode de déplacement que la voiture en affichant le temps réel de parcours à pied entre 2 endroits de la ville, ces derniers étant souvent surestimés.
 
@@ -55,7 +55,7 @@ L'exemple du *metrominuto* de Saint-Brieuc mélangeant les 2 est à mon sens sur
 
 Concernant la présentation, je ne souhaitais pas garder cet aspect quadrillage avec des tracés dont la taille n'est pas proportionnelle à la distance.
 
-Pour ce faire, j'ai utilisé un fond de carte OpenStreetMap (What Else ? ☕) qui m'a servi à placer les points d'intérêts. Pour ce faire, j'ai utilisé la fonction *partager* du site officiel qui permet de générer une image de la carte.
+Pour ce faire, j'ai utilisé un fond de carte [OpenStreetMap](https://www.openstreetmap.fr/) (What Else ? ☕) qui m'a servi à placer les points d'intérêts. Pour ce faire, j'ai utilisé la fonction *partager* du site officiel qui permet de générer une image de la carte.
 
 Ensuite, j'ai connecté les points entre eux de manière rectiligne en appliquant des couleurs au hasard. Le côté rectiligne sans quadrillage faisait un peu brouillon, j'ai commencé à courber les traits selon l'itinéraire réel, rendu validé.
 
@@ -134,7 +134,7 @@ Les dynamiques et volonté de changement individuelles ne peuvent s’accomplir 
 C'est le message que j'essaie désespérément de faire passer à ma commune...
 
 Sinon, on peut y aller plus cash ⬇️
-![pollution](https://pbs.twimg.com/media/FEQq3EDUUAINf6N?format=jpg)
+![pollution]({% link images/FEUPpKfXMAgfeXX.jpeg %})
 
 ----
 
