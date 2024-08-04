@@ -195,7 +195,7 @@ Location test véhicules type vélo électrique / vélo cargo / trottinettes / v
 
 Parkings vélo sécurisés privatifs en zone dense
 
-Communication (bienfaits, événements, plans spécifiques, application)
+Communication (bienfaits, événements, [plans spécifiques](https://lysios.github.io/mobiscore/metrominuto.html), application)
 
 éducation à la route (permis piéton, permis vélo) et pédibus scolaire
 
