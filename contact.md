@@ -10,4 +10,6 @@ in_menu: true
 
 Pour me contacter :
 
-**[lysios-id6431@pm.me](mailto:lysios-id6431@pm.me)** 
+📧 [lysios-id6431@pm.me](mailto:lysios-id6431@pm.me)
+
+🦣 <a rel="me" href="https://pouet.chapril.org/@LySioS">Mastodon</a> 
