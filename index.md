@@ -3,6 +3,8 @@ title: "Accueil"
 order: 0
 in_menu: true
 ---
+![mobiscore]({% link images/Screenshot_20240804-192633_MJ PDF.png %})
+
 Ces dernières années, le système tout voiture qui prédomine commence à atteindre ses 
 limites : bruit, congestion, pollution, sédentarité, coûts financiers, mortalité, etc). Ces 
 problématiques grandissantes couplées à la nécessaire décarbonation de nos moyens de 
