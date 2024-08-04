@@ -3,6 +3,8 @@ title: "Descriptif"
 order: 1
 in_menu: true
 ---
+![mobiscore]({% link images/Screenshot_20240804-192633_MJ PDF.png %})
+
 ## Introduction et définition
 
 ### De l’embolie urbaine
@@ -10,6 +12,8 @@ in_menu: true
 Ces dernières années, le système tout voiture qui a défini le caractère urbain et rural dans le développement de nos communes commence à atteindre ses limites. De nombreux problèmes identifiés dès les années 70 commencent à apparaître concrètement (enlaidissement, congestion, pollution, sédentarité, coûts financiers, mortalité, etc). Ces problématiques grandissantes couplées à la nécessaire décarbonation de nos moyens de transports viennent questionner les politiques d’aménagements du territoire ainsi que leur souhaitabilité et leur viabilité.
 
 Pour qui veut approfondir, la 4e partie de la thèse « Les transports face au défi de la transition énergétique. Explorations entre passé et avenir, technologie et sobriété, accélération et ralentissement »1 d’Aurélien Bigo dresse une analyse des domaines d’actions sur lesquels les politiques peuvent agir ou non.
+
+![tableau-syntjese-bigo]({% link images/image.png %})
 
 https://theses.hal.science/tel-03082127v1/file/91465_BIGO_2020_archivage.pdf
 
@@ -132,7 +136,7 @@ Le Mobi-Score se compose de 2 volets :
 
 Chaque item sera évalué sur une échelle de Likert à 7 graduations. Une moyenne par catégorie sera faite et transformée en code couleur. Un score global sera calculé en faisant la moyenne des 7 catégories et associé à une lettre.
 
-MobiScore Code couleur_copy.png
+![code-couleur-mobiscore]({% link images/Screenshot_20240804-192727_MJ PDF.png %})
 
 ## Typologie d’actions
 
