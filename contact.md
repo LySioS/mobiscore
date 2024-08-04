@@ -1,9 +1,9 @@
 ---
-title: Contact
+title: "Contact"
 order: 1
+in_menu: true
 ---
+![logo-solarpunk]({% link images/SolarPunk_logo.svg.png %})
 
-L'Échappée Belle est actuellement composée de 6 membres.
-
-Pour nous contacter : [coucou@lechappeebelle.team](mailto:coucou@lechappeebelle.team)
-`
+Pour me contacter : [lysios-id6431@pm.me](mailto:lysios-id6431@pm.me)
+` 
