@@ -1,6 +1,6 @@
 ---
 title: "Contact"
-order: 1
+order: 4
 in_menu: true
 ---
 ![logo-solarpunk]({% link images/SolarPunk_logo.svg.png %})
