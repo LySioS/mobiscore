@@ -1,7 +1,7 @@
 ---
 title: "Metrominuto"
 order: 5
-in_menu: false
+in_menu: true
 ---
 ## Intro 
 
@@ -18,6 +18,10 @@ L'intérêt est de valoriser un autre mode de déplacement que la voiture en aff
 Cela permet, en additionnant les différentes valeurs temps des segments empruntés d'avoir une idée approximative de son temps de trajet.
 
 Depuis, ce projet a fait des émules. Quand on recherche *metrominuto* sur internet, la plupart des plans qui ressortent sont espagnols. En France, on peut citer la ville de Toulouse et tout récemment, Saint-Brieuc. 
+
+![metrominuto-st-brieuc]({% link images/csm_metrominuto_1dae4ff75d.jpg %})
+
+> Le *metrominuto* piéton et cycliste de Saint-Brieuc en pdf ici https://www.saint-brieuc.bzh/fileadmin/user_upload/Au_quotidien/Circuler_en_ville/Metrominuto_.pdf
 
 ## Types 
 
