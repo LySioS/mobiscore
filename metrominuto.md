@@ -100,7 +100,7 @@ Restait l'habillage et le tour était joué. Je suis parti sur une couleur bleue
 
 ![metrminuto-cabestany](https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Metrominuto-pi%C3%A9ton-Cabestany.svg/533px-Metrominuto-pi%C3%A9ton-Cabestany.svg.png)
 
-> (https://commons.wikimedia.org/wiki/File:Metrominuto-pi%C3%A9ton-Cabestany.svg)
+> [cabestany-à-pied](https://commons.wikimedia.org/wiki/File:Metrominuto-pi%C3%A9ton-Cabestany.svg)
 
 ## Suites
 
@@ -148,4 +148,4 @@ Voici la version vélo
 
 ![metrominuto-vélo](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Metrominuto-cycliste-Cabestany.svg/823px-Metrominuto-cycliste-Cabestany.svg.png)
 
-> (https://upload.wikimedia.org/wikipedia/commons/f/fc/Metrominuto-cycliste-Cabestany.svg) 
+> [cabestany-à-vélo](https://upload.wikimedia.org/wikipedia/commons/f/fc/Metrominuto-cycliste-Cabestany.svg) 
