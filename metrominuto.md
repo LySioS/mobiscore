@@ -1,7 +1,7 @@
 ---
 title: "Metrominuto"
 order: 5
-in_menu: false
+in_menu: true
 ---
 ## Intro 
 
@@ -21,7 +21,7 @@ Depuis, ce projet a fait des émules. Quand on recherche *metrominuto* sur inter
 
 ![metrominuto-st-brieuc]({% link images/csm_metrominuto_1dae4ff75d.jpg %})
 
-> Le *metrominuto* piéton et cycliste de Saint-Brieuc en pdf ici https://www.saint-brieuc.bzh/fileadmin/user_upload/Au_quotidien/Circuler_en_ville/Metrominuto_.pdf
+> Le *metrominuto* piéton et cycliste de Saint-Brieuc [en pdf ici](https://www.saint-brieuc.bzh/fileadmin/user_upload/Au_quotidien/Circuler_en_ville/Metrominuto_.pdf)
 
 ## Types 
 
@@ -59,9 +59,9 @@ L'exemple du *metrominuto* de Saint-Brieuc mélangeant les 2 est à mon sens sur
 
 Concernant la présentation, je ne souhaitais pas garder cet aspect quadrillage avec des tracés dont la taille n'est pas proportionnelle à la distance.
 
-Pour ce faire, j'ai utilisé un fond de carte [OpenStreetMap](https://www.openstreetmap.fr/) (What Else ? ☕) qui m'a servi à placer les points d'intérêts. Pour ce faire, j'ai utilisé la fonction *partager* du site officiel qui permet de générer une image de la carte.
+Pour ce faire, j'ai utilisé un fond de carte [OpenStreetMap](https://www.openstreetmap.fr/) (What Else ? ☕) qui m'a servi de temporairement de fond pour placer les points d'intérêts. Pour ce faire, j'ai utilisé la fonction *partager* du site officiel qui permet de générer une image de la carte.
 
-Ensuite, j'ai connecté les points entre eux de manière rectiligne en appliquant des couleurs au hasard. Le côté rectiligne sans quadrillage faisait un peu brouillon, j'ai commencé à courber les traits selon l'itinéraire réel, rendu validé.
+Ensuite, j'ai placé des icônes aux points d'intérêt de la ville, puis j'ai connecté les points entre eux de manière rectiligne en appliquant des couleurs au hasard. Le côté rectiligne sans quadrillage faisait un peu brouillon, j'ai commencé à courber les traits selon l'itinéraire réel, rendu validé.
 
 Afin que les points d'intérêts soit compris directement, j'ai choisi de prendre des libertés avec certains toponymes et décidé d'y rajouter une icône. Il faut savoir que beaucoup de personnes ne connaissent pas leur environnement direct, même dans le cas d'une petite ville (ici, 10 000 habitants).
 
@@ -98,9 +98,9 @@ Restait l'habillage et le tour était joué. Je suis parti sur une couleur bleue
 
 #### Résultat final
 
-![metrminuto-cabesatany](https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Metrominuto-pi%C3%A9ton-Cabestany.svg/533px-Metrominuto-pi%C3%A9ton-Cabestany.svg.png)
+![metrminuto-cabestany](https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Metrominuto-pi%C3%A9ton-Cabestany.svg/533px-Metrominuto-pi%C3%A9ton-Cabestany.svg.png)
 
-> https://commons.wikimedia.org/wiki/File:Metrominuto-pi%C3%A9ton-Cabestany.svg
+> (https://commons.wikimedia.org/wiki/File:Metrominuto-pi%C3%A9ton-Cabestany.svg)
 
 ## Suites
 
@@ -148,4 +148,4 @@ Voici la version vélo
 
 ![metrominuto-vélo](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Metrominuto-cycliste-Cabestany.svg/823px-Metrominuto-cycliste-Cabestany.svg.png)
 
-> https://upload.wikimedia.org/wikipedia/commons/f/fc/Metrominuto-cycliste-Cabestany.svg 
+> (https://upload.wikimedia.org/wikipedia/commons/f/fc/Metrominuto-cycliste-Cabestany.svg) 
