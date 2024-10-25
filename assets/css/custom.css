@@ -1,3 +1,8 @@
 :root {
     --couleur-primaire : #0E6270;
 }
+
+body {
+color: #fff;
+background-color:#1f222a;
+}
